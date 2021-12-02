@@ -1,5 +1,5 @@
 ### Hi there 👋
-<html><script src="https://tryhackme.com/badge/770900"></script></html>
+<html><img src="https://tryhackme-badges.s3.amazonaws.com/OscarWosSzlaga.png" alt="TryHackMe"></html>
 <!--
 **OSCAR-WOS/OSCAR-WOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
