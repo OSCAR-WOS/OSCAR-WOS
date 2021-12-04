@@ -1,6 +1,6 @@
 ### Hi there 👋
 <html>
-<link rel="stylesheet" href="thm.css">
+<link rel="stylesheet" href="https://oscar-wos.github.io/thm.css">
 <div id='thm_badge' class='thm_margin' onClick="location.href='https://tryhackme.com/p/OscarWosSzlaga'">
   <div style="width: auto; border-radius:4px; margin-right: 0px;">
     <div class="thm_avatar" style="background-image: url(https://tryhackme-images.s3.amazonaws.com/user-avatars/1af62303e1269e472464bd3a58d78a5a.png)"></div>
